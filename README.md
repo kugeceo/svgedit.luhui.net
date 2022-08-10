@@ -2,8 +2,12 @@
 
 # SVGEdit
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/81432977-2d14-4f78-bf6f-d205ee1f845a/deploy-status)](https://app.netlify.com/sites/svgedits/deploys)
+
+
+
 [![npm](https://img.shields.io/npm/v/svgedit.svg)](https://www.npmjs.com/package/svgedit)
-[![Actions Status](https://github.com/SVG-Edit/svgedit/workflows/Node%20CI/badge.svg)](https://github.com/SVG-Edit/svgedit/actions)
+[![Actions Status](https://github.com/kugeceo/svgedit.luhui.net/workflows/Node%20CI/badge.svg)](https://github.com/kugeceo/svgedit.luhui.net/actions)
 [![Known Vulnerabilities](https://snyk.io/test/github/SVG-Edit/svgedit/badge.svg)](https://snyk.io/test/github/SVG-Edit/svgedit)
 [![Total Alerts](https://img.shields.io/lgtm/alerts/g/SVG-Edit/svgedit.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/SVG-Edit/svgedit/alerts)
 [![Code Quality: Javascript](https://img.shields.io/lgtm/grade/javascript/g/SVG-Edit/svgedit.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/SVG-Edit/svgedit/context:javascript)
